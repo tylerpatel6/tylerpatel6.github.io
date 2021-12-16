@@ -1,0 +1,33 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+#header{
+}
+
+#intro{
+    color: maroon;
+    border: 5px solid black;
+    text-align: center;
+    margin: 30px;
+}
+
+#repository{
+    color: purple;
+    text-align: center;
+    margin: 10px;
+}
+
+#third{
+    color: purple;
+    text-align: center;
+    margin: 10px;
+}
+
+#chart{
+    color: purple;
+    text-align: center;
+    margin: 10px;
+}
+
